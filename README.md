@@ -1,0 +1,1 @@
+![results](mmnist-example.gif)
